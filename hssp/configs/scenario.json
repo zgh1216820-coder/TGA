@@ -1,0 +1,102 @@
+[
+  {
+    "client_id": 0,
+    "model_id": "thkim0305/llama3.2_1B_vl",
+    "datasets": [
+      { "dataset": "vqa-rad", "subset_id": 0, "type": "open-ended", "difficulty": "simple" },
+      { "dataset": "malaria-microscopy-vqa", "subset_id": 0, "type": "multi-choice", "difficulty": "simple" },
+      { "dataset": "Traffic-VQA", "subset_id": 0, "type": "open-ended", "difficulty": "simple" },
+      { "dataset": "DocumentVQA", "subset_id": 0, "type": "open-ended", "metric": "F1", "difficulty": "medium" }
+    ]
+  },
+  {
+    "client_id": 1,
+    "model_id": "thkim0305/llama3.2_1B_vl",
+    "datasets": [
+      { "dataset": "malaria-microscopy-vqa", "subset_id": 1, "type": "multi-choice", "difficulty": "simple" },
+      { "dataset": "Traffic-VQA", "subset_id": 1, "type": "open-ended", "difficulty": "simple" },
+      { "dataset": "DocumentVQA", "subset_id": 1, "type": "open-ended", "metric": "F1", "difficulty": "medium" },
+      { "dataset": "ChartQA", "subset_id": 0, "type": "open-ended", "difficulty": "medium" }
+    ]
+  },
+  {
+    "client_id": 2,
+    "model_id": "thkim0305/llama3.2_1B_vl",
+    "datasets": [
+      { "dataset": "malaria-microscopy-vqa", "subset_id": 2, "type": "multi-choice", "difficulty": "simple" },
+      { "dataset": "Traffic-VQA", "subset_id": 2, "type": "open-ended", "difficulty": "simple" },
+      { "dataset": "DocumentVQA", "subset_id": 2, "type": "open-ended", "metric": "F1", "difficulty": "medium" },
+      { "dataset": "ChartQA", "subset_id": 1, "type": "open-ended", "difficulty": "medium" }
+    ]
+  },
+  {
+    "client_id": 3,
+    "model_id": "thkim0305/llama3.2_1B_vl",
+    "datasets": [
+      { "dataset": "malaria-microscopy-vqa", "subset_id": 3, "type": "multi-choice", "difficulty": "simple" },
+      { "dataset": "Traffic-VQA", "subset_id": 3, "type": "open-ended", "difficulty": "simple" },
+      { "dataset": "DocumentVQA", "subset_id": 3, "type": "open-ended", "metric": "F1", "difficulty": "medium" },
+      { "dataset": "ChartQA", "subset_id": 2, "type": "open-ended", "difficulty": "medium" }
+    ]
+  },
+  {
+    "client_id": 4,
+    "model_id": "thkim0305/llama3.2_1B_vl",
+    "datasets": [
+      { "dataset": "Traffic-VQA", "subset_id": 4, "type": "open-ended", "difficulty": "simple" },
+      { "dataset": "ChartQA", "subset_id": 3, "type": "open-ended", "difficulty": "medium" },
+      { "dataset": "DrivingVQA", "subset_id": 0, "type": "multi-choice", "difficulty": "medium" },
+      { "dataset": "path-vqa", "subset_id": 0, "type": "open-ended", "difficulty": "complex" }
+    ]
+  },
+  {
+    "client_id": 5,
+    "model_id": "thkim0305/llama3.2_1B_vl",
+    "datasets": [
+      { "dataset": "Traffic-VQA", "subset_id": 5, "type": "open-ended", "difficulty": "simple" },
+      { "dataset": "path-vqa", "subset_id": 1, "type": "open-ended", "difficulty": "complex" },
+      { "dataset": "InfoVQA", "subset_id": 0, "type": "open-ended", "metric": "F1", "difficulty": "complex" },
+      { "dataset": "InspecSafe-V1", "subset_id": 0, "type": "open-ended", "metric": "F1", "difficulty": "complex" }
+    ]
+  },
+  {
+    "client_id": 6,
+    "model_id": "thkim0305/llama3.2_3B_vl",
+    "datasets": [
+      { "dataset": "Traffic-VQA", "subset_id": 6, "type": "open-ended", "difficulty": "simple" },
+      { "dataset": "path-vqa", "subset_id": 2, "type": "open-ended", "difficulty": "complex" },
+      { "dataset": "InfoVQA", "subset_id": 1, "type": "open-ended", "metric": "F1", "difficulty": "complex" },
+      { "dataset": "InspecSafe-V1", "subset_id": 1, "type": "open-ended", "metric": "F1", "difficulty": "complex" }
+    ]
+  },
+  {
+    "client_id": 7,
+    "model_id": "thkim0305/llama3.2_3B_vl",
+    "datasets": [
+      { "dataset": "path-vqa", "subset_id": 3, "type": "open-ended", "difficulty": "complex" },
+      { "dataset": "InfoVQA", "subset_id": 2, "type": "open-ended", "metric": "F1", "difficulty": "complex" },
+      { "dataset": "ChemVQA-2K", "subset_id": 0, "type": "open-ended", "difficulty": "extreme" },
+      { "dataset": "MMAD", "subset_id": 0, "type": "multi-choice", "difficulty": "extreme" }
+    ]
+  },
+  {
+    "client_id": 8,
+    "model_id": "thkim0305/llama3.2_3B_vl",
+    "datasets": [
+      { "dataset": "path-vqa", "subset_id": 4, "type": "open-ended", "difficulty": "complex" },
+      { "dataset": "InfoVQA", "subset_id": 3, "type": "open-ended", "metric": "F1", "difficulty": "complex" },
+      { "dataset": "ChemVQA-2K", "subset_id": 1, "type": "open-ended", "difficulty": "extreme" },
+      { "dataset": "MMAD", "subset_id": 1, "type": "multi-choice", "difficulty": "extreme" }
+    ]
+  },
+  {
+    "client_id": 9,
+    "model_id": "thkim0305/llama3.2_3B_vl",
+    "datasets": [
+      { "dataset": "ChemVQA-2K", "subset_id": 2, "type": "open-ended", "difficulty": "extreme" },
+      { "dataset": "ChemVQA-2K", "subset_id": 3, "type": "open-ended", "difficulty": "extreme" },
+      { "dataset": "MMAD", "subset_id": 2, "type": "multi-choice", "difficulty": "extreme" },
+      { "dataset": "MMAD", "subset_id": 3, "type": "multi-choice", "difficulty": "extreme" }
+    ]
+  }
+]

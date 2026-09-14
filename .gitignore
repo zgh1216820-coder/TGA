@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+outputs/
+raw/
+dataset/
+checkpoints/
+*.pt
+*.pth
+*.safetensors
+.cache/

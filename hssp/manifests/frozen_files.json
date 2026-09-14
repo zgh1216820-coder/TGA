@@ -1,0 +1,729 @@
+{
+  "files": [
+    {
+      "dataset": "ChartQA",
+      "subset_id": 0,
+      "split": "test",
+      "path": "dataset/ChartQA/test/dataset-0.json",
+      "sha256": "92973fd6cc40a5206b2d7dfb49509fa17a3476b93a2b185b66bfb5a9f461d067",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChartQA",
+      "subset_id": 0,
+      "split": "train",
+      "path": "dataset/ChartQA/train/dataset-0.json",
+      "sha256": "5e99caeca8aaab8355aad8c7ca9055d3cff4ffcaa923d7278d9fc363524ada85",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChartQA",
+      "subset_id": 1,
+      "split": "test",
+      "path": "dataset/ChartQA/test/dataset-1.json",
+      "sha256": "92973fd6cc40a5206b2d7dfb49509fa17a3476b93a2b185b66bfb5a9f461d067",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChartQA",
+      "subset_id": 1,
+      "split": "train",
+      "path": "dataset/ChartQA/train/dataset-1.json",
+      "sha256": "0a4a5ecadd4eb0e23a5e97687b207981c70dfa895c7add31b8e43bebcfe99d64",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChartQA",
+      "subset_id": 2,
+      "split": "test",
+      "path": "dataset/ChartQA/test/dataset-2.json",
+      "sha256": "92973fd6cc40a5206b2d7dfb49509fa17a3476b93a2b185b66bfb5a9f461d067",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChartQA",
+      "subset_id": 2,
+      "split": "train",
+      "path": "dataset/ChartQA/train/dataset-2.json",
+      "sha256": "27ba210696a4e85dc7f69a2c56de1b891800f7f098ac8106c7821af924145b0c",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChartQA",
+      "subset_id": 3,
+      "split": "test",
+      "path": "dataset/ChartQA/test/dataset-3.json",
+      "sha256": "92973fd6cc40a5206b2d7dfb49509fa17a3476b93a2b185b66bfb5a9f461d067",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChartQA",
+      "subset_id": 3,
+      "split": "train",
+      "path": "dataset/ChartQA/train/dataset-3.json",
+      "sha256": "1516bc3488d10dbaf7cd6097204c366049c4ad3d7ac07f8e0afd461453e95e0d",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChemVQA-2K",
+      "subset_id": 0,
+      "split": "test",
+      "path": "dataset/ChemVQA-2K/test/dataset-0.json",
+      "sha256": "00f43695f92bfc9b03caedcbd1391a0e34d93bfcd9e5b821fe79ba716fb077e4",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChemVQA-2K",
+      "subset_id": 0,
+      "split": "train",
+      "path": "dataset/ChemVQA-2K/train/dataset-0.json",
+      "sha256": "04e8ce996fd9c0cc9347e4f0293a468c46dbc2b34c8389ef1896de46c7d26c67",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChemVQA-2K",
+      "subset_id": 1,
+      "split": "test",
+      "path": "dataset/ChemVQA-2K/test/dataset-1.json",
+      "sha256": "00f43695f92bfc9b03caedcbd1391a0e34d93bfcd9e5b821fe79ba716fb077e4",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChemVQA-2K",
+      "subset_id": 1,
+      "split": "train",
+      "path": "dataset/ChemVQA-2K/train/dataset-1.json",
+      "sha256": "ebfa981b698d4c82755df139b8777b5d4486721e17a9045aaf01c7b22a4650a8",
+      "row_count": 3392,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChemVQA-2K",
+      "subset_id": 2,
+      "split": "test",
+      "path": "dataset/ChemVQA-2K/test/dataset-2.json",
+      "sha256": "00f43695f92bfc9b03caedcbd1391a0e34d93bfcd9e5b821fe79ba716fb077e4",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChemVQA-2K",
+      "subset_id": 2,
+      "split": "train",
+      "path": "dataset/ChemVQA-2K/train/dataset-2.json",
+      "sha256": "7782280620248154eaaca753e5f75640b73f8cb33b36870e7b40a68f315bc838",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChemVQA-2K",
+      "subset_id": 3,
+      "split": "test",
+      "path": "dataset/ChemVQA-2K/test/dataset-3.json",
+      "sha256": "00f43695f92bfc9b03caedcbd1391a0e34d93bfcd9e5b821fe79ba716fb077e4",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "ChemVQA-2K",
+      "subset_id": 3,
+      "split": "train",
+      "path": "dataset/ChemVQA-2K/train/dataset-3.json",
+      "sha256": "dbc096c5f2f7cf2b6d4c0dd0cf94f238bae96383cbacb41371e85bbb4476815f",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "DocumentVQA",
+      "subset_id": 0,
+      "split": "test",
+      "path": "dataset/DocumentVQA/test/dataset-0.json",
+      "sha256": "8668046568925301014f20999de971c89d93e06d59746bb665672c174e7eb97f",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "DocumentVQA",
+      "subset_id": 0,
+      "split": "train",
+      "path": "dataset/DocumentVQA/train/dataset-0.json",
+      "sha256": "0b77a513b7333386e1bc25fffd17e58ebb1fa93f9e3c50995f533b74475365f2",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "DocumentVQA",
+      "subset_id": 1,
+      "split": "test",
+      "path": "dataset/DocumentVQA/test/dataset-1.json",
+      "sha256": "8668046568925301014f20999de971c89d93e06d59746bb665672c174e7eb97f",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "DocumentVQA",
+      "subset_id": 1,
+      "split": "train",
+      "path": "dataset/DocumentVQA/train/dataset-1.json",
+      "sha256": "78e63e80a07e4df5890d9777927ebdde8848cd5b83e49df0e0992a9db14f8d84",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "DocumentVQA",
+      "subset_id": 2,
+      "split": "test",
+      "path": "dataset/DocumentVQA/test/dataset-2.json",
+      "sha256": "8668046568925301014f20999de971c89d93e06d59746bb665672c174e7eb97f",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "DocumentVQA",
+      "subset_id": 2,
+      "split": "train",
+      "path": "dataset/DocumentVQA/train/dataset-2.json",
+      "sha256": "400152b59a8f65a4b3b366e8e2513a59d1429e4b35781c4a4b07ed50eb00c9c1",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "DocumentVQA",
+      "subset_id": 3,
+      "split": "test",
+      "path": "dataset/DocumentVQA/test/dataset-3.json",
+      "sha256": "8668046568925301014f20999de971c89d93e06d59746bb665672c174e7eb97f",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "DocumentVQA",
+      "subset_id": 3,
+      "split": "train",
+      "path": "dataset/DocumentVQA/train/dataset-3.json",
+      "sha256": "7624ff31fb5dcc4e663ba41a8523c753f0a505c19d95de1b765f5dfea7a41a7d",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "DrivingVQA",
+      "subset_id": 0,
+      "split": "test",
+      "path": "dataset/DrivingVQA/test/dataset-0.json",
+      "sha256": "5cd71ce2ab3ca04a93e779105d4fb1fe15e9c34390d66fff8dcd0c4b9c597364",
+      "row_count": 789,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "DrivingVQA",
+      "subset_id": 0,
+      "split": "train",
+      "path": "dataset/DrivingVQA/train/dataset-0.json",
+      "sha256": "3a40ce2619d7b50b466e74dca3e71bb5f673b62d5780eb278f54c2a937748b85",
+      "row_count": 3142,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "InfoVQA",
+      "subset_id": 0,
+      "split": "test",
+      "path": "dataset/InfoVQA/test/dataset-0.json",
+      "sha256": "dc2889067f248155938dcb8331ebe246d9e0b286f323cde7b1356bcd29e596f1",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "InfoVQA",
+      "subset_id": 0,
+      "split": "train",
+      "path": "dataset/InfoVQA/train/dataset-0.json",
+      "sha256": "7cc1d8fc0cb349d301942319b4002b0fcceca64fc73edd64a707db6ac76f5900",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "InfoVQA",
+      "subset_id": 1,
+      "split": "test",
+      "path": "dataset/InfoVQA/test/dataset-1.json",
+      "sha256": "dc2889067f248155938dcb8331ebe246d9e0b286f323cde7b1356bcd29e596f1",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "InfoVQA",
+      "subset_id": 1,
+      "split": "train",
+      "path": "dataset/InfoVQA/train/dataset-1.json",
+      "sha256": "e49de2013556c562544f675b9f1caac080a41338f798a5e4062f247a351460ce",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "InfoVQA",
+      "subset_id": 2,
+      "split": "test",
+      "path": "dataset/InfoVQA/test/dataset-2.json",
+      "sha256": "dc2889067f248155938dcb8331ebe246d9e0b286f323cde7b1356bcd29e596f1",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "InfoVQA",
+      "subset_id": 2,
+      "split": "train",
+      "path": "dataset/InfoVQA/train/dataset-2.json",
+      "sha256": "a48bb38ab88717f7e32f1f996bf73ea7e4e7f70b7d014ae7f72a8cf6f2717232",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "InfoVQA",
+      "subset_id": 3,
+      "split": "test",
+      "path": "dataset/InfoVQA/test/dataset-3.json",
+      "sha256": "dc2889067f248155938dcb8331ebe246d9e0b286f323cde7b1356bcd29e596f1",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "InfoVQA",
+      "subset_id": 3,
+      "split": "train",
+      "path": "dataset/InfoVQA/train/dataset-3.json",
+      "sha256": "e4e44c2a1f46f3173f650e5bb75fa26bfd1bbd28a910921de06899c7aaa07b89",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "InspecSafe-V1",
+      "subset_id": 0,
+      "split": "test",
+      "path": "dataset/InspecSafe-V1/test/dataset-0.json",
+      "sha256": "aab57dbb5e8b48e401a7cb81ebf6a4c8d006155d3e540e9b887e4d2803758864",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "InspecSafe-V1",
+      "subset_id": 0,
+      "split": "train",
+      "path": "dataset/InspecSafe-V1/train/dataset-0.json",
+      "sha256": "338b17670b86c4acf82e25b8137d93b733af1f9acf28c5bdeff864b81d749802",
+      "row_count": 500,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "InspecSafe-V1",
+      "subset_id": 1,
+      "split": "test",
+      "path": "dataset/InspecSafe-V1/test/dataset-1.json",
+      "sha256": "aab57dbb5e8b48e401a7cb81ebf6a4c8d006155d3e540e9b887e4d2803758864",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "InspecSafe-V1",
+      "subset_id": 1,
+      "split": "train",
+      "path": "dataset/InspecSafe-V1/train/dataset-1.json",
+      "sha256": "6a6324ea9c98982db7f59374ac39f4000144339a0eb4b04172697893a9932d88",
+      "row_count": 3263,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "MMAD",
+      "subset_id": 0,
+      "split": "test",
+      "path": "dataset/MMAD/test/dataset-0.json",
+      "sha256": "fea86ba5db9d09985abbe154355aa2be4c54ae9995632fd3dfd42d47f6e0f355",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "MMAD",
+      "subset_id": 0,
+      "split": "train",
+      "path": "dataset/MMAD/train/dataset-0.json",
+      "sha256": "4be900fdd5355016c1646dd6b488465bdd4663bfaed181d982bfa348608cbe67",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "MMAD",
+      "subset_id": 1,
+      "split": "test",
+      "path": "dataset/MMAD/test/dataset-1.json",
+      "sha256": "fea86ba5db9d09985abbe154355aa2be4c54ae9995632fd3dfd42d47f6e0f355",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "MMAD",
+      "subset_id": 1,
+      "split": "train",
+      "path": "dataset/MMAD/train/dataset-1.json",
+      "sha256": "28a1f5b8801cef9a95b8f5b990451c29c7cace6f20e12829fd69fd6c0f6bfedd",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "MMAD",
+      "subset_id": 2,
+      "split": "test",
+      "path": "dataset/MMAD/test/dataset-2.json",
+      "sha256": "fea86ba5db9d09985abbe154355aa2be4c54ae9995632fd3dfd42d47f6e0f355",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "MMAD",
+      "subset_id": 2,
+      "split": "train",
+      "path": "dataset/MMAD/train/dataset-2.json",
+      "sha256": "fa95fdd4f870a0f3d1f2a0b502f06e5bbf5dec6ff41954b8fcf20681da98d7da",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "MMAD",
+      "subset_id": 3,
+      "split": "test",
+      "path": "dataset/MMAD/test/dataset-3.json",
+      "sha256": "fea86ba5db9d09985abbe154355aa2be4c54ae9995632fd3dfd42d47f6e0f355",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "MMAD",
+      "subset_id": 3,
+      "split": "train",
+      "path": "dataset/MMAD/train/dataset-3.json",
+      "sha256": "4678334d1dd78c5a1c696e53c0e923bae69a9b13f0314476c4522f0595f2c112",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 0,
+      "split": "test",
+      "path": "dataset/Traffic-VQA/test/dataset-0.json",
+      "sha256": "94fc6f93c1f85029fb5bb70682e0c8362adef3cc6634aceaedaac83b7dd0e17a",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 0,
+      "split": "train",
+      "path": "dataset/Traffic-VQA/train/dataset-0.json",
+      "sha256": "f16147c3a3513536cdaa4d8ef13cd16bec8a737a1f3c0af02a2fb8c806318640",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 1,
+      "split": "test",
+      "path": "dataset/Traffic-VQA/test/dataset-1.json",
+      "sha256": "94fc6f93c1f85029fb5bb70682e0c8362adef3cc6634aceaedaac83b7dd0e17a",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 1,
+      "split": "train",
+      "path": "dataset/Traffic-VQA/train/dataset-1.json",
+      "sha256": "7d01fda8ba4aa32a808d46d1c79c72a491d2274a1d4a996446c2f1d2f0260ac1",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 2,
+      "split": "test",
+      "path": "dataset/Traffic-VQA/test/dataset-2.json",
+      "sha256": "94fc6f93c1f85029fb5bb70682e0c8362adef3cc6634aceaedaac83b7dd0e17a",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 2,
+      "split": "train",
+      "path": "dataset/Traffic-VQA/train/dataset-2.json",
+      "sha256": "656e31d6624dabf391a91c040d255a5f6e3c4048fb6a455e72e25ac1df229c19",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 3,
+      "split": "test",
+      "path": "dataset/Traffic-VQA/test/dataset-3.json",
+      "sha256": "94fc6f93c1f85029fb5bb70682e0c8362adef3cc6634aceaedaac83b7dd0e17a",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 3,
+      "split": "train",
+      "path": "dataset/Traffic-VQA/train/dataset-3.json",
+      "sha256": "81258cc27f85d8e052b2874baaf70a939687aa9748b9193672279b43e75d9e27",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 4,
+      "split": "test",
+      "path": "dataset/Traffic-VQA/test/dataset-4.json",
+      "sha256": "94fc6f93c1f85029fb5bb70682e0c8362adef3cc6634aceaedaac83b7dd0e17a",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 4,
+      "split": "train",
+      "path": "dataset/Traffic-VQA/train/dataset-4.json",
+      "sha256": "4974efa4725ed8aab674885f16c9e9f796f9b70060f3871005737d44f93b90ef",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 5,
+      "split": "test",
+      "path": "dataset/Traffic-VQA/test/dataset-5.json",
+      "sha256": "94fc6f93c1f85029fb5bb70682e0c8362adef3cc6634aceaedaac83b7dd0e17a",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 5,
+      "split": "train",
+      "path": "dataset/Traffic-VQA/train/dataset-5.json",
+      "sha256": "1f26c458f979fd59a4d3f75dc733b312da344a3c2473660001b3ac1afba4e174",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 6,
+      "split": "test",
+      "path": "dataset/Traffic-VQA/test/dataset-6.json",
+      "sha256": "94fc6f93c1f85029fb5bb70682e0c8362adef3cc6634aceaedaac83b7dd0e17a",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "Traffic-VQA",
+      "subset_id": 6,
+      "split": "train",
+      "path": "dataset/Traffic-VQA/train/dataset-6.json",
+      "sha256": "e4e38eb038dd9d8def885b8efff9974be81250cf6cf351c302db99b285954ab6",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "malaria-microscopy-vqa",
+      "subset_id": 0,
+      "split": "test",
+      "path": "dataset/malaria-microscopy-vqa/test/dataset-0.json",
+      "sha256": "1c09d4881878996e014a82cb3bb9132aeda16fc887baf80ca557efeedc410319",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "malaria-microscopy-vqa",
+      "subset_id": 0,
+      "split": "train",
+      "path": "dataset/malaria-microscopy-vqa/train/dataset-0.json",
+      "sha256": "9b4c8b2052fbefdc216a0ea4cb12ac3b1bff29c81e468a8d0524b72d75a2eddc",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "malaria-microscopy-vqa",
+      "subset_id": 1,
+      "split": "test",
+      "path": "dataset/malaria-microscopy-vqa/test/dataset-1.json",
+      "sha256": "1c09d4881878996e014a82cb3bb9132aeda16fc887baf80ca557efeedc410319",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "malaria-microscopy-vqa",
+      "subset_id": 1,
+      "split": "train",
+      "path": "dataset/malaria-microscopy-vqa/train/dataset-1.json",
+      "sha256": "dbac19bae069c0e4532dfdda894d341fb727d0611208d6bf38078716d5a36e43",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "malaria-microscopy-vqa",
+      "subset_id": 2,
+      "split": "test",
+      "path": "dataset/malaria-microscopy-vqa/test/dataset-2.json",
+      "sha256": "1c09d4881878996e014a82cb3bb9132aeda16fc887baf80ca557efeedc410319",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "malaria-microscopy-vqa",
+      "subset_id": 2,
+      "split": "train",
+      "path": "dataset/malaria-microscopy-vqa/train/dataset-2.json",
+      "sha256": "838eee039cb8a0ce510d66bd0d3b497e3670b3eeaecdcc67ff1bbde0b595a178",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "malaria-microscopy-vqa",
+      "subset_id": 3,
+      "split": "test",
+      "path": "dataset/malaria-microscopy-vqa/test/dataset-3.json",
+      "sha256": "1c09d4881878996e014a82cb3bb9132aeda16fc887baf80ca557efeedc410319",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "malaria-microscopy-vqa",
+      "subset_id": 3,
+      "split": "train",
+      "path": "dataset/malaria-microscopy-vqa/train/dataset-3.json",
+      "sha256": "8ca2c06663dbc74fdba2f68c31df5ca996f80b748892c734c708c95f4329807e",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "path-vqa",
+      "subset_id": 0,
+      "split": "test",
+      "path": "dataset/path-vqa/test/dataset-0.json",
+      "sha256": "2adfc35edb7c1878033629b5f77feedbb8d27224c1925285cbe43399ab39d1da",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "path-vqa",
+      "subset_id": 0,
+      "split": "train",
+      "path": "dataset/path-vqa/train/dataset-0.json",
+      "sha256": "d2bb72d8e496e7c8ec2af9d64c1fb7e243e13efb10690aa86dac9200456af7d7",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "path-vqa",
+      "subset_id": 1,
+      "split": "test",
+      "path": "dataset/path-vqa/test/dataset-1.json",
+      "sha256": "2adfc35edb7c1878033629b5f77feedbb8d27224c1925285cbe43399ab39d1da",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "path-vqa",
+      "subset_id": 1,
+      "split": "train",
+      "path": "dataset/path-vqa/train/dataset-1.json",
+      "sha256": "37c779f7114b251c9b6dd0c520a40ce3871e3c58d69e09bdecc92173a50a21a3",
+      "row_count": 3654,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "path-vqa",
+      "subset_id": 2,
+      "split": "test",
+      "path": "dataset/path-vqa/test/dataset-2.json",
+      "sha256": "2adfc35edb7c1878033629b5f77feedbb8d27224c1925285cbe43399ab39d1da",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "path-vqa",
+      "subset_id": 2,
+      "split": "train",
+      "path": "dataset/path-vqa/train/dataset-2.json",
+      "sha256": "654877a87dad352e1f194b757a6126fc75456be0fde6da5db1d4820b5e3692fc",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "path-vqa",
+      "subset_id": 3,
+      "split": "test",
+      "path": "dataset/path-vqa/test/dataset-3.json",
+      "sha256": "2adfc35edb7c1878033629b5f77feedbb8d27224c1925285cbe43399ab39d1da",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "path-vqa",
+      "subset_id": 3,
+      "split": "train",
+      "path": "dataset/path-vqa/train/dataset-3.json",
+      "sha256": "8c9c3b769bd5bdfb235734f27fea4516166e5c64b97106f6ae2c3e88f07fd4ed",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "path-vqa",
+      "subset_id": 4,
+      "split": "test",
+      "path": "dataset/path-vqa/test/dataset-4.json",
+      "sha256": "2adfc35edb7c1878033629b5f77feedbb8d27224c1925285cbe43399ab39d1da",
+      "row_count": 1000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "path-vqa",
+      "subset_id": 4,
+      "split": "train",
+      "path": "dataset/path-vqa/train/dataset-4.json",
+      "sha256": "de09a31fd3b0a8a6ba39f37c2762a5c0ba65df96115c296971da39933bf1e4d3",
+      "row_count": 4000,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "vqa-rad",
+      "subset_id": 0,
+      "split": "test",
+      "path": "dataset/vqa-rad/test/dataset-0.json",
+      "sha256": "a5d27500b7dbf327098f69c889e3daf3024978cb367b700bbaff469a7c37f1cf",
+      "row_count": 451,
+      "matches_20260815": true
+    },
+    {
+      "dataset": "vqa-rad",
+      "subset_id": 0,
+      "split": "train",
+      "path": "dataset/vqa-rad/train/dataset-0.json",
+      "sha256": "46c3c62e628ae6e11cb7842e33bd5f4ec4e80e2c5c44796699b998a7b5b8b8b6",
+      "row_count": 1793,
+      "matches_20260815": true
+    }
+  ],
+  "mismatches": [],
+  "sample_rows": 190984,
+  "missing_images": 0,
+  "status": "PASS",
+  "membership_sha256": "2d654e5038eb3428ceb2af3cbf64eabea7f575eb5ab69e8c96b0513761ad4521"
+}

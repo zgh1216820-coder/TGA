@@ -1,0 +1,11 @@
+{
+  "fedmosaic_native_sparse_sources": true,
+  "fedmosaic_tg_source_policy": "similarity",
+  "fedmosaic_tg_weight_policy": "auto",
+  "fedmosaic_tg_topk": 2,
+  "fedmosaic_tg_min_sim": -1.0,
+  "fedmosaic_tg_hetero_quota": 0,
+  "fedmosaic_tg_source_scope": "all",
+  "softmax_temp": 0.5,
+  "seed": 1
+}

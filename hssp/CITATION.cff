@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "Cite the associated TGA paper and the original source datasets. Repository publication metadata is pending."
+title: "HSSP: Heterogeneous Specialty Stream Protocol"
+type: software
+version: 0.1.0
+date-released: 2026-09-14

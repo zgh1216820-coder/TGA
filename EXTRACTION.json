@@ -1,0 +1,15 @@
+{
+  "source_file": "TGA development implementation",
+  "sha256": "ebb7bfc5bc5d76e9adcd39ccaba8e3ee6d2792b918c57049b1201c2509339da5",
+  "functions": [
+    "_tg_homo_client_ids",
+    "_tg_is_random_matched_policy",
+    "_tg_random_matched_sources",
+    "_tg_ranked_candidates",
+    "_tg_resolve_weight_policy",
+    "_tg_select_source_ids",
+    "_tg_select_with_hetero_quota",
+    "_tg_sparse_softmax_weights"
+  ],
+  "operation": "AST extraction, function bodies unchanged"
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "ChartQA",
+    "source_url": "https://github.com/vis-nlp/ChartQA",
+    "hf_repo_id": null,
+    "historical_revision": null,
+    "source_record_date": "2026-08-15",
+    "redistribute_raw": false
+  },
+  {
+    "name": "ChemVQA-2K",
+    "source_url": "https://huggingface.co/datasets/chandrabhuma/ChemVQA-2K",
+    "hf_repo_id": "chandrabhuma/ChemVQA-2K",
+    "historical_revision": null,
+    "source_record_date": "2026-08-15",
+    "redistribute_raw": false
+  },
+  {
+    "name": "DocumentVQA",
+    "source_url": "https://site.docvqa.org/datasets/docvqa",
+    "hf_repo_id": null,
+    "historical_revision": null,
+    "source_record_date": "2026-08-15",
+    "redistribute_raw": false
+  },
+  {
+    "name": "DrivingVQA",
+    "source_url": "https://huggingface.co/datasets/EPFL-DrivingVQA/DrivingVQA",
+    "hf_repo_id": "EPFL-DrivingVQA/DrivingVQA",
+    "historical_revision": null,
+    "source_record_date": "2026-08-15",
+    "redistribute_raw": false
+  },
+  {
+    "name": "InfoVQA",
+    "source_url": "https://site.docvqa.org/datasets/infographicvqa",
+    "hf_repo_id": null,
+    "historical_revision": null,
+    "source_record_date": "2026-08-15",
+    "redistribute_raw": false
+  },
+  {
+    "name": "InspecSafe-V1",
+    "source_url": "https://huggingface.co/datasets/Tetrabot2026/InspecSafe-V1",
+    "hf_repo_id": "Tetrabot2026/InspecSafe-V1",
+    "historical_revision": null,
+    "source_record_date": "2026-08-15",
+    "redistribute_raw": false
+  },
+  {
+    "name": "MMAD",
+    "source_url": "https://huggingface.co/datasets/jiang-cc/MMAD",
+    "hf_repo_id": "jiang-cc/MMAD",
+    "historical_revision": null,
+    "source_record_date": "2026-08-15",
+    "redistribute_raw": false
+  },
+  {
+    "name": "Traffic-VQA",
+    "source_url": "https://huggingface.co/datasets/YuYu2004/Traffic-VQA",
+    "hf_repo_id": "YuYu2004/Traffic-VQA",
+    "historical_revision": null,
+    "source_record_date": "2026-08-15",
+    "redistribute_raw": false
+  },
+  {
+    "name": "malaria-microscopy-vqa",
+    "source_url": "https://huggingface.co/datasets/EricPeter/malaria-microscopy-vqa",
+    "hf_repo_id": "EricPeter/malaria-microscopy-vqa",
+    "historical_revision": null,
+    "source_record_date": "2026-08-15",
+    "redistribute_raw": false
+  },
+  {
+    "name": "path-vqa",
+    "source_url": "https://pathvqachallenge.grand-challenge.org/Data_Info/",
+    "hf_repo_id": null,
+    "historical_revision": null,
+    "source_record_date": "2026-08-15",
+    "redistribute_raw": false
+  },
+  {
+    "name": "vqa-rad",
+    "source_url": "https://osf.io/89kps/",
+    "hf_repo_id": null,
+    "historical_revision": null,
+    "source_record_date": "2026-08-15",
+    "redistribute_raw": false
+  }
+]
